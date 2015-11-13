@@ -1,1 +1,1 @@
-# RPG-steam-punk
+# RPG Steampunk (C++ Allegro game)
